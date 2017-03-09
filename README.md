@@ -1,2 +1,2 @@
 # neural-hack
-solutions to the neural hack competition organized at Luminaire, KIIT University.
+Solutions to the Neural Hack competition organized at Luminaire, the annual techfest of the School of Computer Engineering at KIIT University.
