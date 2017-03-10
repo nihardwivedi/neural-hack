@@ -1,3 +1,11 @@
+'''
+Name of the Task : Messy Folder
+KIITFEST ID : KF36723
+Operating System : MacOS Sierra
+Programming Language used: Python
+External modules used (if any) : os,sys
+Additional instructions to use the program (if any) : The files to be organized must exist in current working directory.
+'''
 #!/usr/bin/python
 # Traverse all of the files in the given directory and move
 # them into subfolders based on their extension type.
