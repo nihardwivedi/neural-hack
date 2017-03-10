@@ -1,3 +1,11 @@
+'''
+Name of the Task : The Movie Bot
+KIITFEST ID : KF36723
+Operating System : MacOS Sierra
+Programming Language used: Python
+External modules used (if any) : urllib2 htmlparser csv datetime codecs cstringIO
+Additional instructions to use the program (if any) : None.
+'''
 import urllib2
 import HTMLParser
 import csv
