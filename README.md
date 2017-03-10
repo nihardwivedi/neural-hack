@@ -1,4 +1,4 @@
-# neural-hack
+# Neural-Hack 2017
 Solutions to the Neural Hack competition organized at Luminaire, the annual techfest of the School of Computer Engineering at KIIT University.
 
 Tasks- 
