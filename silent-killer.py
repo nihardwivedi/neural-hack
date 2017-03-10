@@ -1,10 +1,10 @@
 '''
-Name of the Task : Messy Folder
+Name of the Task : Silent Killer
 KIITFEST ID : KF36723
 Operating System : Windows 10
 Programming Language used: Python
 External modules used (if any) : win32console, win32gui, win32api, pythoncom, pyHook
-Additional instructions to use the program (if any) : None.
+Additional instructions to use the program (if any) : Python 2.7 or older should be used as pyHook is deprecated in python 3.x
 '''
 import win32api
 import win32console
