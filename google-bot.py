@@ -4,7 +4,7 @@ KIITFEST ID : KF36723
 Operating System : MacOS Sierra
 Programming Language used: Python
 External modules used (if any) : selenium
-Additional instructions to use the program (if any) : The files to be organized must exist in current working directory.
+Additional instructions to use the program (if any) : None.
 '''
 from selenium import webdriver
 from selenium.webdriver.comon.keys import Keys
