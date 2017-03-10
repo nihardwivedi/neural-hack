@@ -1,9 +1,10 @@
 # Neural-Hack 2017
-Solutions to the Neural Hack competition organized at Luminaire, the annual techfest of the School of Computer Engineering at KIIT University.
 
-Tasks- 
+# Solutions to the Neural Hack competition organized at Luminaire, the annual techfest of the School of Computer Engineering at KIIT University.
 
-1. Messy Folder
+# Tasks- 
+
+# 1. Messy Folder
 
 Task: Given a folder containing files with the following formats – csv, txt, mp3. Write a
 
@@ -15,7 +16,7 @@ and .txt files in txt folder.
 
 Hint: No hint. Very simple program [10]
 
-2. The Google Bot
+# 2. The Google Bot
 
 Task: Make a bot which asks the user to search something in the console/terminal and
 
@@ -23,7 +24,7 @@ opens the first link from Google’s “Search Results” page in the browser.
 
 Hint: Selenium [50]
 
-3. Neural DJ
+# 3. Neural DJ
 
 Task: Take input of two songs name stored in local system and combine both the songs
 
@@ -31,7 +32,7 @@ with the first part as the first half of song 1 and second part as second half o
 
 Hint: numpy [100]
 
-4. Silent Killer
+# 4. Silent Killer
 
 Task: Write a script to implement a Keylogger which runs in the background without the
 
@@ -41,13 +42,11 @@ them in a file “log.txt” .
 
 Hint: pyHook [100]
 
-5. The Movie Bot
+# 5. The Movie Bot
 
 Task: Extract movie info of first 2 pages of the year 2016 from IMDB from the given link:
 
-http://www.imdb.com/search/title?release_date=2016&sort=user_rating,desc&page=1&r
-
-ef_=adv_nxt
+http://www.imdb.com/search/title?release_date=2016&sort=user_rating,desc&page=1&ref_=adv_nxt
 
 Store the info in a csv file with attributes given as : Title, Genre, Rating.Example :
 
